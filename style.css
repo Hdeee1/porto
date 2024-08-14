@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  display: flex;
+  width: 90%;
+  margin-inline: auto;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: gainsboro; */
+  padding: 20px;
+}
+
+.container-navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
